@@ -7,6 +7,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
+  </a>
+  <a href="https://www.docker.com" target="_blank" style="margin-left: 20px;">
+    <img src="https://www.docker.com/wp-content/uploads/2023/08/vertical-logo-monochromatic.png" width="150" alt="Docker Logo">
+  </a>
+</p>
+
 
 <h2>1. Proje Tanımı</h2>
 Bu proje, PHP ile geliştirilmiş bir RESTful API servislerini içermektedir. İki ana görev üzerinden gerçekleştirilen bu çalışmada, sipariş işlemleri ve indirim hesaplamaları için API servisleri oluşturulmuştur. Proje Docker ile yapılandırılmış ve test edilmiştir.
