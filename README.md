@@ -5,8 +5,7 @@
 Bu proje, PHP ile geliştirilmiş bir RESTful API servislerini içermektedir. İki ana görev üzerinden gerçekleştirilen bu çalışmada, sipariş işlemleri ve indirim hesaplamaları için API servisleri oluşturulmuştur. Proje Docker ile yapılandırılmış ve test edilmiştir.
 
 <h2>2. Teknolojiler ve Araçlar</h2>
-• Programlama Dili: PHP
-• Framework/Library: Laravel 11
-• Veritabanı: MySQL (phpMyAdmin)
-• Docker: Proje Docker ile yapılandırılmış ve çalıştırılmıştır.
-
+- **Programlama Dili:** PHP  
+- **Framework/Library:** Laravel 11  
+- **Veritabanı:** MySQL (phpMyAdmin)  
+- **Docker:** Proje Docker ile yapılandırılmış ve çalıştırılmıştır.
