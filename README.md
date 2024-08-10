@@ -10,8 +10,6 @@
   </a>
 </p>
 
-
-
 <h2>1. Proje Tanımı</h2>
 Bu proje, PHP ile geliştirilmiş bir RESTful API servislerini içermektedir. İki ana görev üzerinden gerçekleştirilen bu çalışmada, sipariş işlemleri ve indirim hesaplamaları için API servisleri oluşturulmuştur. Proje Docker ile yapılandırılmış ve test edilmiştir.
 
@@ -23,11 +21,7 @@ Bu proje, PHP ile geliştirilmiş bir RESTful API servislerini içermektedir. İ
   <li><strong>Docker:</strong> Proje Docker ile yapılandırılmış ve çalıştırılmıştır.</li>
 </ul>
 
-
-
-
 <h2>3. Görevler</h2>
-
 <h3>Görev 1 - Siparişler</h3>
 <p><strong>Açıklama:</strong> Bu görev, siparişlerin eklenmesi, silinmesi ve listeleme işlemlerini gerçekleştiren bir RESTful API servisi oluşturmayı hedeflemektedir.</p>
 <ul>
