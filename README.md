@@ -53,3 +53,23 @@ Bu proje, PHP ile geliştirilmiş bir RESTful API servislerini içermektedir. İ
     </ul>
   </li>
 </ul>
+<h2>4. Kurulum ve Çalıştırma</h2>
+<ol>
+  <li><strong>GitHub Reposu:</strong> <a href="https://github.com/eywtuncay/Case_Api">https://github.com/eywtuncay/Case_Api</a></li>
+  <li><strong>Gereksinimler:</strong>
+    <ul>
+      <li>PHP</li>
+      <li>Docker</li>
+      <li>MySQL (veya tercih edilen başka bir veritabanı)</li>
+    </ul>
+  </li>
+  <li><strong>Kurulum Adımları:</strong>
+    <ol>
+      <li>Projeyi GitHub'dan klonlayın.</li>
+      <li>Docker ve diğer gerekli bağımlılıkları yükleyin.</li>
+      <li><code>.env</code> dosyasını yapılandırın.</li>
+      <li>Docker ile projeyi başlatın: <code>docker-compose up -d</code></li>
+    </ol>
+  </li>
+</ol>
+
