@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
   </a>
   <a href="https://www.docker.com" target="_blank" style="margin-left: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="200" alt="Docker Logo">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="250" alt="Docker Logo">
   </a>
 </p>
 
