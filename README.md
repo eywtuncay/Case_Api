@@ -5,6 +5,9 @@
   <a href="https://www.docker.com" target="_blank" style="margin-left: 20px;">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="250" alt="Docker Logo">
   </a>
+  <a href="https://www.php.net/" target="_blank" style="margin-left: 20px;">
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="150" alt="PHP Logo">
+  </a>
 </p>
 
 
