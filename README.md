@@ -53,9 +53,9 @@ Bu proje, PHP ile geliştirilmiş bir RESTful API servislerini içermektedir. İ
     </ul>
   </li>
 </ul>
+
 <h2>4. Kurulum ve Çalıştırma</h2>
 <ol>
-  <li><strong>GitHub Reposu:</strong> <a href="https://github.com/eywtuncay/Case_Api">https://github.com/eywtuncay/Case_Api</a></li>
   <li><strong>Gereksinimler:</strong>
     <ul>
       <li>PHP</li>
