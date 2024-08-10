@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://www.php.net/" target="_blank" style="margin-left: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="200" alt="PHP Logo">
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="190" alt="PHP Logo">
   </a>
   <a href="https://laravel.com" target="_blank">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
